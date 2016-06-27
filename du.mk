@@ -1,9 +1,9 @@
 $(call inherit-product, device/asus/Z00T/full_Z00T.mk)
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common DU stuff.
+$(call inherit-product, vendor/du/config/common_full_phone.mk)
 
-PRODUCT_NAME := cm_Z00T
+PRODUCT_NAME := du_Z00T
 PRODUCT_BRAND := asus
 PRODUCT_MANUFACTURER := asus
 PRODUCT_DEVICE := Z00T

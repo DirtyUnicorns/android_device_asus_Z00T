@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "android_device_asus_msm8916-common",
+    "target_path": "device/asus/msm8916-common"
+  },
+  {
+    "repository": "android_kernel_asus_msm8916",
+    "target_path": "kernel/asus/msm8916"
+  },
+  {
+    "repository":   "DirtyUnicorns/android_vendor_qcom_opensource_dataservices",
+    "target_path":  "vendor/qcom/opensource/dataservices",
+    "branch":       "m-caf"
+  },
+  {
+    "repository":   "DirtyUnicorns/android_hardware_qcom_fm",
+    "target_path":  "hardware/qcom/fm",
+    "branch":       "m-caf"
+  }
+]
