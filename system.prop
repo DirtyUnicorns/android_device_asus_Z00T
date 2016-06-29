@@ -1,2 +1,5 @@
 # Display
 ro.sf.lcd_density=420
+
+# du updater
+ro.du.updater=Z00T
